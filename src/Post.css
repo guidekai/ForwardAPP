@@ -1,0 +1,25 @@
+.Post {
+    padding: 15px;
+}
+  
+.Post-image {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.Post-edit {
+    border: none;
+    background: none;
+    cursor: pointer;
+    float: right;
+}
+
+.Post-delete {
+    border: none;
+    background: none;
+    padding: 0;
+    float: right;
+    cursor: pointer;
+    color: crimson;
+}
+  
